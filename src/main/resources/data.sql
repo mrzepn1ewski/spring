@@ -1,0 +1,3 @@
+INSERT INTO policy VALUES (1,'TEST123','2020-01-10','2021-01-09',200.12,null,null,null,true);
+INSERT INTO policy VALUES (2,'TEST456','2020-01-11','2021-01-10',100.41,2000,50,null,true);
+INSERT INTO policy VALUES (3,'TEST789','2020-01-12','2021-01-11',null,null,null,12.36,true);
